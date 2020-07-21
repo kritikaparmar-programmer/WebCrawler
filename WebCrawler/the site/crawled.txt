@@ -1,0 +1,11 @@
+http://thegirlcode.co
+http://thegirlcode.co/
+http://thegirlcode.co/about
+http://thegirlcode.co/login
+http://thegirlcode.co/signup
+http://thegirlcode.co/users/facebook
+http://thegirlcode.co/users/google
+http://thegirlcode.co/workshops
+https://learn.thegirlcode.co
+https://learn.thegirlcode.co/login
+https://learn.thegirlcode.co/signup
